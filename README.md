@@ -1,6 +1,6 @@
 ### Welcome to my profile! 👋
 
-I'm an (incoming) second year comp sci and maths student @ Loughborough University! I'm really intersted in Data Science and Machine Learning and I aspire to have a job in these industries! Feel free to follow (I'll follow back) anc check out some of my projects! :boom:
+I'm an (incoming) second year comp sci and maths student @ Loughborough University! I'm really intersted in Data Science and Machine Learning and I aspire to have a job in these industries! Feel free to follow (I'll follow back) and check out some of my projects! :boom:
 
 
 - 🔭 I’m currently working on understanding ML Algorithms through mini-projects. These include [comparing music tastes on Spotify](https://github.com/bailslearnsstuff/musicTasteAnalysis) and [Analysing Arsenal's tweets](https://github.com/bailslearnsstuff/football_tweet_mine)
